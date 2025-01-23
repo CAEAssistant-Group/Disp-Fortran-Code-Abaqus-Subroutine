@@ -1,17 +1,16 @@
 !      ######################################################################
 !      #################      CAE Assistant Company          ################
-!      ##############         www.CAEassistant.com              #############
+!      ##############         CAEassistant--com              #############
 !      ###########   Copy right by CAE Assistant Company    ###############
 !      ######################################################################
-!      ONLY the BUYER  of this package has permission to use this subroutine.
-!	   Any distribution of this subroutine is illegal and will be prosecuted 
+
 !      ######################################################################
 !      ######################################################################
 !      CAE Assisitant Services: 
 !      Toturial Packages,Consultancy,Articles,Q&A,Video Gallery,Online Course
 !      ######################################################################
 !      Need help with your project? 
-!      You can get initial free consultation from (Support@CAEassistant.com)
+!      You can get initial free consultation from (CAEassistant-com)
 !      ###################################################################### 
       SUBROUTINE  DISP(U,KSTEP,KINC,TIME,NODE,NOEL,JDOF,COORDS)
 C
